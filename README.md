@@ -10,25 +10,21 @@
  
  # Tech Skills:
   
-</div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Gui-Py" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
   📓 Python, Pandas, Numpy, Matplotlib, Apache Spark;
 </div>
 
-</div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Gui-MySQL" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
   ⭐ HackerRank e LeetCode badges;
 </div>
 
-</div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Gui-Java" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   ☕ Conhecimentos básicos e avançados da linguagem;
 </div>
 
-</div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Gui-Java" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original-wordmark.svg">
   ☁️ Certificado em Fundamentos de Cloud Computing pelo Google Cloud Skills Boost;
